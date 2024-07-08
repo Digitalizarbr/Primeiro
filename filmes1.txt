@@ -1,5 +1,9 @@
 Era do gelo, era uma vez uma historia.
 So que tinha um problema, o gelo n'ao era gelo.Gelo!!
 
+<<<<<<< HEAD
 Gelo, gelo, Gelo1
 
+=======
+Gelo e mais Gelo
+>>>>>>> filmes_novos

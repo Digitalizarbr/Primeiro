@@ -2,7 +2,7 @@ Era do gelo, era uma vez uma historia.
 <<<<<<< HEAD
 So que tinha um problema, o gelo n'ao era gelo.12
 =======
-So que tinha um problema, o gelo n'ao era gelo.Gelo!! iiii
+So que tinha um problema, o gelo n'ao era gelo.Gelo!!
 
 <<<<<<< HEAD
 Gelo, gelo, Gelo1
